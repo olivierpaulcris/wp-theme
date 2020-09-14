@@ -1,2 +1,2 @@
 # wp-theme
-Xample of WordPress Theme
+WordPress Theme Xample using PHP, Bootstrap.
