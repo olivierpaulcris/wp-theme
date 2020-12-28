@@ -1,2 +1,2 @@
-# wp-theme
-WordPress Theme Xample using PHP, Bootstrap.
+# wp-theme-boilerplate
+WordPress Theme, Bootstrap boilerplate.
